@@ -60,7 +60,8 @@ $ unzip opencv_contrib-3.4.5.zip
 
 ~~~bash
  $ cd opencv-3.4.5
- $ mkdir build &&cd build
+ $ mkdir build
+ $ cd build
 ~~~
 
 빌드

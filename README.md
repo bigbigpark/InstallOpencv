@@ -1,4 +1,4 @@
-# How to install opencv 3.5.4 on Ubuntu 20.04
+# How to install opencv 3.4.5 on Ubuntu 20.04
 
 <br/>
 OS: Ubuntu 20.04 Focal

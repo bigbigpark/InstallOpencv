@@ -8,6 +8,7 @@ Package: OpenCV 3.4.5
 ## 1. 미리 설치된 OpenCV 버전 삭제
 
 두번째 명령어 실행시 관련된 다른 패키지도영향을 받을 수 있음
+<br/>
 i.e. nvidia graphic driver
 
 ~~~bash
